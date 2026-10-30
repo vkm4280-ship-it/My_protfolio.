@@ -21,7 +21,7 @@ I have worked on academic and practical projects, developing skills in programmi
 
 ### Certifications
 - IBM – python for data science
-Python using Data Structure algorithm   
+-Python using Data Structure algorithm   
   
 
 ### Areas of Interest
